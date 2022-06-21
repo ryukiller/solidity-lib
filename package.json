@@ -1,18 +1,18 @@
 {
-  "name": "@uniswap/lib",
+  "name": "@ariswap/lib",
   "version": "4.0.1-alpha",
-  "description": "📖 Solidity libraries that are shared across Uniswap contracts",
+  "description": "📖 Solidity libraries that are shared across Ariswap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
   "homepage": "https://uniswap.org",
   "repository": {
-    "url": "https://github.com/Uniswap/uniswap-lib",
+    "url": "https://github.com/Ariswap/uniswap-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Uniswap/uniswap-lib/issues"
+    "url": "https://github.com/Ariswap/uniswap-lib/issues"
   },
   "engines": {
     "node": ">=10"
